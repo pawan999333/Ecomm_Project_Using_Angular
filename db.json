@@ -1,0 +1,102 @@
+{
+  "seller": [
+    {
+      "name": "pawan",
+      "email": "pawan@email.com",
+      "password": "333333",
+      "id": 1
+    },
+    {
+      "name": "pawan3",
+      "email": "pawan@email.com",
+      "password": "333333",
+      "id": 2
+    },
+    {
+      "name": "pks",
+      "password": "111111",
+      "email": "user3@yopmail.com",
+      "id": 3
+    },
+    {
+      "name": "",
+      "password": "111111",
+      "email": "user3@yopmail.com",
+      "id": 4
+    },
+    {
+      "name": "",
+      "password": "111111",
+      "email": "user3@yopmail.com",
+      "id": 5
+    },
+    {
+      "name": "don",
+      "password": "111111",
+      "email": "user3@yopmail.com",
+      "id": 6
+    },
+    {
+      "name": "pawan",
+      "password": "eee",
+      "email": "john@gmail.com",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "name": "samsung j2 nokia",
+      "price": "012",
+      "color": "red green",
+      "category": "mobile laptop",
+      "description": "mobile ",
+      "image": "https://www.creativepixelmag.com/wp-content/uploads/2020/01/E-Commerce-Development-Companies.jpg",
+      "id": 1
+    },
+    {
+      "name": "pen drive",
+      "price": "222",
+      "color": "black",
+      "category": "laptop",
+      "description": "32 GB",
+      "image": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2020/11/phones-switch-apps.jpg",
+      "id": 2
+    },
+    {
+      "name": "honda",
+      "price": "121212",
+      "color": "white",
+      "category": "bike",
+      "description": "two vechile",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqgCsgbCSQOtloOUqokYGkKo0fHBNn2eyZ1HlyWxvdNrgUUanbyN4tyHCXBXrJ2lkywU&usqp=CAU",
+      "id": 3
+    },
+    {
+      "name": "honda super",
+      "price": "121212",
+      "color": "white",
+      "category": "bike",
+      "description": "two vechile",
+      "image": "https://previews.123rf.com/images/maxxyustas/maxxyustas1510/maxxyustas151000013/47014857-online-shopping-concept-mobile-phone-or-smartphone-with-cart-and-boxes-and-bag-3d.jpg",
+      "id": 4
+    },
+    {
+      "name": "bmw",
+      "price": "393939",
+      "color": "black",
+      "category": "car",
+      "description": "four vechile",
+      "image": "https://previews.123rf.com/images/maxxyustas/maxxyustas1510/maxxyustas151000013/47014857-online-shopping-concept-mobile-phone-or-smartphone-with-cart-and-boxes-and-bag-3d.jpg",
+      "id": 5
+    },
+    {
+      "name": "realme 6i",
+      "price": "333999",
+      "color": "black",
+      "category": "mobile",
+      "description": "this is a touch mobile",
+      "image": "https://cdn1.smartprix.com/rx-ibsJ2hNrF-w1200-h1200/bsJ2hNrF.jpg",
+      "id": 6
+    }
+  ]
+}
