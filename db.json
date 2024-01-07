@@ -98,5 +98,67 @@
       "image": "https://cdn1.smartprix.com/rx-ibsJ2hNrF-w1200-h1200/bsJ2hNrF.jpg",
       "id": 6
     }
+  ],
+  "users": [
+    {
+      "name": "codeing",
+      "email": "coding@gmail.com",
+      "password": "333333",
+      "id": 1
+    },
+    {
+      "name": "uk",
+      "email": "user3@yopmail.com",
+      "password": "111111",
+      "id": 2
+    },
+    {
+      "name": "kabir",
+      "email": "user3@yopmail.com",
+      "password": "111111",
+      "id": 3
+    },
+    {
+      "name": "tony stark",
+      "email": "user3@yopmail.com",
+      "password": "111111",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "user3@yopmail.com",
+      "password": "111111",
+      "id": 5
+    },
+    {
+      "name": "pawan sharma",
+      "email": "sharma@gmail.com",
+      "password": "333333",
+      "id": 6
+    },
+    {
+      "name": "india",
+      "email": "john@gmail.com",
+      "password": "999999",
+      "id": 7
+    },
+    {
+      "name": "user3@yopmail.com",
+      "email": "user3@yopmail.com",
+      "password": "111111",
+      "id": 8
+    },
+    {
+      "name": "dhoni",
+      "email": "csk@gmail.com",
+      "password": "123123",
+      "id": 9
+    },
+    {
+      "name": "samsung",
+      "email": "wwe@gmail.com",
+      "password": "333333",
+      "id": 10
+    }
   ]
 }
